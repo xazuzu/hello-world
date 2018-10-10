@@ -1,2 +1,2 @@
 # hello-world
-J-A-R
+This is J-A-R (Just Another Repository)...
